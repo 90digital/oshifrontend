@@ -1007,6 +1007,18 @@ header .profile-username .caret {
     -moz-box-sizing: content-box;
     box-sizing: content-box;
 }
+
+/* link color content area */
+.ng-scope a{
+  color:#000000;   
+ }
+.ng-scope a:hover{
+   text-decoration:underline;   
+ }
+ 
+
+
+
 .main_promo_area .content_area {
     margin: 0 20px;
     padding-top: 30px;
